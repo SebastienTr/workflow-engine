@@ -1,0 +1,4 @@
+workflow-engine:
+  validate-flows-on-startup: true
+  clean-process-on-startup: false
+  continue-process-on-startup: false
